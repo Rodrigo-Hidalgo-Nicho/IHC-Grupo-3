@@ -11,3 +11,10 @@ Secciones del landing page:
 8. Contact
 9. Sign up
 
+Público objetivo:
+
+1. Usuarios que deseen comprar ropa
+2. Tiendas comerciales de prensa de vestir
+
+Link: 
+https://rodrigo-hidalgo-nicho.github.io/IHC-Grupo-3/

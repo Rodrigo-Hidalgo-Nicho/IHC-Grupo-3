@@ -10,7 +10,6 @@
     width: 100%;
     margin: auto;
     position: fixed;
-    z-index: -1;
 }
 
 /*Section Header*/
@@ -33,6 +32,7 @@ nav{
     padding: 2% 6%;
     justify-content: space-between;
     align-items: center;
+    z-index:99;
 }
 nav img{
     width: 150px;
@@ -114,7 +114,6 @@ nav .fa{
     position: relative;
     justify-content: center;
     min-height: 100vh;
-    z-index:99;
 }
 
 .download .background-image:after{

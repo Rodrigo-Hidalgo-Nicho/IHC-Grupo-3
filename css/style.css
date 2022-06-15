@@ -301,5 +301,256 @@ nav .fa{
 
 /* /.Section Partners */
 
+/* Section Benefits */
+.benefits {
+    background-color: white;
+}
 
+.benefits .grid div {
+    padding: 0 30px;
+    flex-basis: 33%;
+    text-align: center;
+}
+.benefits{
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+h2{
+    font: bold 60px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: black;
+
+}
+.benefits div h3{
+    font: bold 20px 'Open Sans', sans-serif;
+    text-align: center;
+}
+.benefits div h4{
+    font: bold 20px 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+
+.benefits div img{
+    margin-bottom: 80px;
+}
+
+.row{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+/* /.Section Benefits */
+
+
+/* Section Product */
+.product {
+    background-color: #F97272;
+    margin: 80%
+}
+
+.product{
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+h5{
+    font: bold 60px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: white;
+}
+p{
+    color: black;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+}
+.download a.btn-p {
+    padding: 20px 46px;
+    margin-left: 150px;
+}
+.btn-p{
+    display: inline-block;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    padding: 12px 34px;
+    font-size: 13px;
+    position: relative;
+    cursor: pointer;
+}
+.btn-p:hover{
+    border: 1px solid #717070;
+    background: #717070;
+    transition: 1s;
+}
+
+.row{
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-col{
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+h6{
+    font: bold 20px 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.product-col:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+@media(max-width: 1000px){
+    .row{
+        flex-direction: column;
+    }
+}
+/* /.Section Product */
+
+
+/* Section Team */
+.team {
+    background-color: #F6F6F6;
+}
+.team{
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h7{
+    font: bold 60px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: black;
+}
+.team-col{
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+.team-col:hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+@media(max-width: 1000px){
+    .row{
+        flex-direction: column;
+    }
+}
+
+/* /.Section Team */
+
+
+/* Section About */
+.about {
+    background-color: #F97272;
+}
+.about{
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h8{
+    font: bold 60px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: black;
+}
+h9{
+    font: bold 60px 'Open Sans', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: white;
+}
+.about p{
+    margin-left: 20px;
+    text-align: left;
+}
+@media(max-width: 1000px){
+    .row{
+        flex-direction: column;
+    }
+}
+
+/* /.Section About */
+
+
+/* /.Section contact */
+
+/*Footer*/
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    background-color: #414a4f;
+    padding: 60px 0;
+}
+
+footer ul{
+    display: flex;
+    margin-bottom: 25px;
+    font-size: 32px;
+}
+
+footer ul li{
+    margin: 0 8px;
+}
+
+footer ul li:first-child{
+    margin-left: 0;
+}
+
+footer ul li:last-child{
+    margin-right: 0;
+}
+
+footer p{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: rgba(255,255,255,0.6);
+    margin-bottom: 10px;
+}
+
+footer p a{
+    color: #fff;
+}
+
+@media (max-width: 700px){
+    footer{
+        padding: 80px 15px;
+    }
+
+}
 

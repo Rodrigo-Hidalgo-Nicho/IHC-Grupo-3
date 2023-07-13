@@ -19,6 +19,9 @@ Público objetivo:
 Link: 
 https://rodrigo-hidalgo-nicho.github.io/IHC-Grupo-3/
 
+UI:
+https://www.figma.com/file/bxH1ZQMykMGsneVZuOaj5Y/Landing-page?type=design&t=ZO50ZwD49YKWhNKY-6
+
 Caracteristicas de prototipo:
 
 Nuestro prototipo de aplicacion fue inspirado en otras aplicaciones de venta de ropa. Nuestra caracteristica de diferenciación radica en la implementacion del uso de un probador virtual vinculado a redes sociales y marcas, planeamos destacar de entre la competencia.

@@ -1,4 +1,4 @@
-# IHC-Grupo-3
+# Descripción
 
 Secciones del landing page:
 1. Home 
